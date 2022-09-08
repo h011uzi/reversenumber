@@ -1,5 +1,6 @@
-using System;
 
+//Girilen değere göre tersini veren basit bir matematik işlemi sağlama.
+using System;
 
 class Program
 
